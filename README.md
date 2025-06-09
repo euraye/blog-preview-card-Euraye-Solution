@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-with-styled-components-and-modern-css-Nl0zomIk4N)
-- Live Site URL: [Add live site URL here](https://blog-preview-card-euraye-solution.vercel.app/)
+- Solution URL: [Github repository](https://github.com/euraye/blog-preview-card-Euraye-Solution.git)
+- Live Site URL: [blog-preview-card-euraye-solution @ vercel](https://blog-preview-card-euraye-solution.vercel.app/)
 
 ## My process
 
