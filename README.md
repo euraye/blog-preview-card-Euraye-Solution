@@ -44,8 +44,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- [Styled Components](https://styled-components.com/) - For styles
+- [Figma](https://www.figma.com/) - For design and prototyping
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
