@@ -44,7 +44,11 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+<<<<<<< HEAD
 - [Figma](https://www.figma.com/) - For design and prototyping
+=======
+- [Styled Components](https://styled-components.com/) - For styles
+>>>>>>> 2c989a7ea83b7fe697edaa7cf54e2aba12811881
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
